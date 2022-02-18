@@ -1,0 +1,1 @@
+Primeiro Commit - Projeto realizado seguindo o tutorial "HTML CSS Javascript Website Tutorial - Responsive Beginner JS Project with Smooth Scroll" do link "https://www.youtube.com/watch?v=3-2Pj5hxwrw&ab_channel=BrianDesign". Codigo original - https://github.com/briancodex/html-css-js-website-smooth-scroll -
